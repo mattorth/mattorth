@@ -1,6 +1,6 @@
 ### Hi I'm Matt 👋🏽
 
-### I'm currently looking for a web developer role in based in Seattle, WA.
+### I'm currently looking for a web developer role based in Seattle, WA.
 
 - 🔭 I’m currently in **Lambda School's Full Stack Web Program**
 - 🌱 Learning more about and studying: **Python, Data Structures, and Algorithms**
